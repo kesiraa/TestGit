@@ -1,2 +1,3 @@
 This is the first change in Feature1 branch
 Fourth change in master
+This is the second change in Feature1 branch
